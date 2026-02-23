@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "my repository"
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "my-langgraph-agent",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		]
+	}
+}
